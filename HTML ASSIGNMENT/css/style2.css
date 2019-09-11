@@ -1,0 +1,39 @@
+body{
+	background-color: grey;
+	margin:auto;
+	width:50%;
+	overflow: hidden;
+	text-decoration: none;
+	font-family: sans-serif;
+
+}
+
+.ayush{
+	width:70%;
+	margin:auto;
+	float: left;
+	background-color: red; 
+	height:600px;
+	min-width:50%;
+		overflow: hidden;
+}
+#rajat{
+	border:2px solid white;;
+}
+#kumar{
+	border:2px solid white;
+	
+}
+aside{
+	float:left;
+	background-color: green;
+	height:600px;
+	width:30%;
+	min-width: 10%;
+	text-decoration: none;
+
+	
+}
+a{
+	text-decoration: none;
+}
